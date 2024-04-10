@@ -15,6 +15,7 @@ Education
 * B.A. in Language Science, Saarland University, 2019
 * Certified IT Business Engineer, HBFSWI Saarbrücken, 2016
 
+---
 #Work experience
 #======
 #* Spring 2024: Academic Pages Collaborator
@@ -62,3 +63,4 @@ Education
 #Service and leadership
 #======
 #* Currently signed in to 43 different slack teams
+---
