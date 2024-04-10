@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Language Science and Technology, Saarland University, 2021
+* B.A. in Language Science, Saarland University, 2019
+* Certified IT Business Engineer, HBFSWI Saarbrücken, 2016
 
 Work experience
 ======
