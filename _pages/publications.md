@@ -9,7 +9,7 @@ author_profile: true
 
 **Computergestützte Bestimmung des Sprechflusses bei Vorschulkindern**<br>
 *Valentin Kany and Jürgen Trouvain*<br>
-Proc. 35th Conf. Elektronische Sprachsignalverarbeitung (ESSV '24), Regensburg, pp. 62-69
+Proc. 35th Conf. Elektronische Sprachsignalverarbeitung (ESSV '24), Regensburg, pp. 62-69.
 [[pdf]](https://www.coli.uni-saarland.de/~trouvain/docs/Kany_Trouvain_2024.pdf){:target="_blank"}<br>
 
 
