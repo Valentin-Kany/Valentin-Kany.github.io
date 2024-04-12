@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Saarland University"
   location         : # "Earth"
-  employer         : "Saarland University"
+  employer         : #"Saarland University"
   uri              : # URL
   email            : "valentin.kany@uni-saarland.de" 
 
