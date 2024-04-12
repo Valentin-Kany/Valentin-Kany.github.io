@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Computergestützte Bestimmung des Sprechflusses bei Vorschulkindern"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-kany_trouvain-computergestuetzte_bestimmung_des_sprechflusses_bei_vorschulkindern
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2024-10-01
+venue: 'Proc. 35th Conf. Elektronische Sprachsignalverarbeitung (ESSV '24)'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.coli.uni-saarland.de/~trouvain/docs/Kany_Trouvain_2024.pdf)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
