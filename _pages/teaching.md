@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-##Summer semester 2024
+## Summer semester 2024
 
 **Seminar [“Introduction to Phonetics and Phonology”](https://www.coli.uni-saarland.de/courses/einf_phon_phon/2024_SS/phonphon.html){:target="_blank"}**<br>
 *Stefanie Haberzettl, Valentin Kany and Nicole Weidinger*<br>
