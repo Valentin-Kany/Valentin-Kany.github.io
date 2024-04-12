@@ -5,12 +5,26 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+## 2024
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+**A usage-based approach to measuring success in language learning**<br>
+*Stefanie Haberzettl, Valentin Kany, and Nicole Weidinger*<br>
+4th Conf. Constructionist Approaches to Language Pedagogy (CALP4), Erlangen.
 
+**Computer-aided assessment of speech fluency of preschool children**<br>
+*Valentin Kany and Jürgen Trouvain*<br>
+35th Conf. Elektronische Sprachsignalverarbeitung (ESSV '24), Regensburg.
+
+## 2023
+
+
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
 {% endfor %}
