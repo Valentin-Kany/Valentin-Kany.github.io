@@ -7,19 +7,19 @@ author_profile: true
 
 ## Summer semester 2024
 
-**Seminar [“Introduction to Phonetics and Phonology”](https://www.coli.uni-saarland.de/courses/einf_phon_phon/2024_SS/phonphon.html){:target="_blank"}**
+Seminar [“Introduction to Phonetics and Phonology”](https://www.coli.uni-saarland.de/courses/einf_phon_phon/2024_SS/phonphon.html){:target="_blank"}
 
-**Forschungskolloquium DaF/DaZ**
+Forschungskolloquium DaF/DaZ
 
 ## Winter semester 2023/2024
 
-**Forschungskolloquium DaF/DaZ**
+Forschungskolloquium DaF/DaZ
 
 ## Summer semester 2023
 
-**Seminar "Einführung in die statistische Auswertung und Konzipierung von Studien mit Fokus DaF/DaZ"**
+Seminar "Einführung in die statistische Auswertung und Konzipierung von Studien mit Fokus DaF/DaZ"
 
-**Forschungskolloquium DaF/DaZ**
+Forschungskolloquium DaF/DaZ
 
 
 
