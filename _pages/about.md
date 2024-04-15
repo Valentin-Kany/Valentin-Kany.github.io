@@ -10,7 +10,7 @@ I am a PhD student in the [Phonetics group](https://www.coli.uni-saarland.de/gro
 I am part of the ["Wuschel-Project"](https://www.uni-saarland.de/lehrstuhl/haberzettl/projekte/sprachliche-bildung-in-kita.html){:target="_blank"} which focuses on the semiautomatic assessment of language proficiency of preschool children.
 
 My research interests include 
-* Filler Particles
+* Disfluencies in speech
 * Speech and Language Technologies in Education
 * Dialectal variation
 * Sound symbolism
