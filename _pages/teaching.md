@@ -11,9 +11,16 @@ author_profile: true
 
 **Forschungskolloquium DaF/DaZ**<br>
 
+## Winter semester 2023/2024
+
+**Forschungskolloquium DaF/DaZ**<br>
+
 ## Summer semester 2023
 
 **Seminar "Einführung in die statistische Auswertung und Konzipierung von Studien mit Fokus DaF/DaZ"**<br>
+
+**Forschungskolloquium DaF/DaZ**<br>
+
 
 
 {% if author.googlescholar %}
