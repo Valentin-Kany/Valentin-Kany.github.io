@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2024
 
+**Semiautomatic support of speech fluency assessment by detecting filler particles and determining speech tempo**<br>
+*Valentin Kany and Jürgen Trouvain*<br>
+Prosodic features of language learners, Leiden.
+
 **A usage-based approach to measuring success in language learning**<br>
 *Stefanie Haberzettl, Valentin Kany and Nicole Weidinger*<br>
 4th Conf. Constructionist Approaches to Language Pedagogy (CALP4), Erlangen.
