@@ -12,7 +12,7 @@ title                    : "Valentin Kany"
 title_separator          : "-"
 name                     : &name "Valentin Kany"
 description              : &description "personal description"
-#url                      : https://valentin-kany.github.io #http://valentin-kany.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://valentin-kany.github.io" #http://valentin-kany.com  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "https://valentin-kany.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Valentin-Kany/Valentin-Kany.github.io" #"academicpages/academicpages.github.io"
 
