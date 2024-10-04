@@ -16,6 +16,10 @@ and determining speech tempo**<br>
 *Valentin Kany and Jürgen Trouvain*<br>
 Workshop "Prosodic features of language learners", Leiden.
 
+**Computergestützte Bestimmung des Sprechflusses bei Vorschulkindern**<br>
+*Valentin Kany*<br>
+Linguistischer Nachwuchsworkshop (LiNaWo 2024), Saarbrücken.
+
 **A usage-based approach to measuring success in language learning**<br>
 *Stefanie Haberzettl, Valentin Kany and Nicole Weidinger*<br>
 4th Conf. Constructionist Approaches to Language Pedagogy (CALP4), Erlangen.
