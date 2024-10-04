@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2024
 
+**Semiautomatic support of speech fluency assessment by detecting filler particles and determining speech tempo**<br>
+*Valentin Kany and Jürgen Trouvain*<br>
+20th Conf. Phonetik & Phonologie (P&P '24), Halle (Saale).
+
 **Semiautomatic support of speech fluency assessment by detecting filler particles 
 and determining speech tempo**<br>
 *Valentin Kany and Jürgen Trouvain*<br>
