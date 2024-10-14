@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Winter semester 2024/2025
 
-Seminar [“Speech Science”](https://www.coli.uni-saarland.de/courses/einf_phon_phon/2024_SS/phonphon.html](https://www.coli.uni-saarland.de/courses/speech-science/2024_WS/speech-science.html){:target="_blank"}
+Seminar [“Speech Science”](https://www.coli.uni-saarland.de/courses/speech-science/2024_WS/speech-science.html){:target="_blank"}
 
 Forschungskolloquium DaF/DaZ
 
