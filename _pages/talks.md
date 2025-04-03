@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+## 2025
+
+**Annotation of disfluencies in child speech**<br>
+*Valentin Kany and Jürgen Trouvain*<br>
+36th Conf. Elektronische Sprachsignalverarbeitung (ESSV '25), Halle (Saale).
+
 ## 2024
 
 **Semiautomatic support of speech fluency assessment by detecting filler particles and determining speech tempo**<br>
