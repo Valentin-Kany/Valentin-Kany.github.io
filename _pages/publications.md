@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2025
+
+**Annotation of disfluencies in child speech**<br>
+*Valentin Kany and Jürgen Trouvain*<br>
+Proc. 36th Conf. Elektronische Sprachsignalverarbeitung (ESSV '25), Halle, pp. 247-254.
+[[pdf]](https://www.coli.uni-saarland.de/~trouvain/docs/Kany_Trouvain_2024.pdf){:target="_blank"} [[poster]](https://www.coli.uni-saarland.de/~trouvain/docs/Kany_Trouvain_2024.pdf){:target="_blank"} <br>
+
 ## 2024
 
 **Computergestützte Bestimmung des Sprechflusses bei Vorschulkindern**<br>
