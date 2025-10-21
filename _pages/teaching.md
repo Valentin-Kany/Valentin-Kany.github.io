@@ -6,11 +6,11 @@ author_profile: true
 ---
 ## Winter semester 2025/2026
 
-Seminar [“Speech Science”]{:target="_blank"}
+Seminar “Speech Science”
 
 ## Summer semester 2025
 
-Seminar [“Introduction to Phonetics and Phonology”]{:target="_blank"}
+Seminar “Introduction to Phonetics and Phonology”
 
 ## Winter semester 2024/2025
 
