@@ -7,6 +7,14 @@ author_profile: true
 
 ## 2025
 
+**Sprechfluss als Indikator in Sprachstandserhebungen bei Vorschulkindern: Welche Merkmale beeinflussen seine Wahrnehmung?**<br>
+*Valentin Kany*<br>
+21th Conf. Phonetik & Phonologie (P&P '25), Leipzig.
+
+**From Features to Fluency: Predicting Perceived Speech Fluency of Preschool Children for Language Proficiency Assessments**<br>
+*Valentin Kany*<br>
+10th Workshop on Speech and Language Technology in Education (SLaTE ‘25), Nijmegen.
+
 **Annotation of disfluencies in child speech**<br>
 *Valentin Kany and Jürgen Trouvain*<br>
 36th Conf. Elektronische Sprachsignalverarbeitung (ESSV '25), Halle (Saale).
