@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2025
 
+**From Features to Fluency: Predicting Perceived Speech Fluency of Preschool Children for Language Proficiency Assessments** <br>
+*Valentin Kany* <br>
+Proc. 10th Workshop on Speech and Language Technology in Education (SLaTE '25), pp. 118-122.
+
 **Annotation of disfluencies in child speech**<br>
 *Valentin Kany and Jürgen Trouvain*<br>
 Proc. 36th Conf. Elektronische Sprachsignalverarbeitung (ESSV '25), Halle (Saale), pp. 247-254.
