@@ -4,6 +4,14 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Winter semester 2025/2026
+
+Seminar [“Speech Science”]{:target="_blank"}
+
+## Summer semester 2025
+
+Seminar [“Introduction to Phonetics and Phonology”]{:target="_blank"}
+
 ## Winter semester 2024/2025
 
 Seminar [“Speech Science”](https://www.coli.uni-saarland.de/courses/speech-science/2024_WS/speech-science.html){:target="_blank"}
