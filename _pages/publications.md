@@ -10,7 +10,7 @@ author_profile: true
 **Automatic Detection of Disfluencies in L1 and L2 Child Speech**<br>
 *Martha Schubert and Valentin Kany*<br>
 Proc. 37th Conf. Elektronische Sprachsignalverarbeitung (ESSV '26), Eichstätt, pp. 208-215.
-[[pdf]](https://www.essv.de/pdf/2026_208_215.pdf){:target="_blank"} [[poster]](/files/Poster_Kany_Trouvain_2025.pdf){:target="_blank"} <br>
+[[pdf]](https://www.essv.de/pdf/2026_208_215.pdf){:target="_blank"} [[poster]](/files/Poster_SpeechScience_Kany_2702.pdf){:target="_blank"} <br>
 
 ## 2025
 
