@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2026
+
+**Automatic Detection of Disfluencies in L1 and L2 Child Speech**<br>
+*Martha Schubert and Valentin Kany*<br>
+Proc. 37th Conf. Elektronische Sprachsignalverarbeitung (ESSV '26), Eichstätt, pp. 208-215.
+[[pdf]](https://www.essv.de/pdf/2026_208_215.pdf){:target="_blank"} [[poster]](/files/Poster_Kany_Trouvain_2025.pdf){:target="_blank"} <br>
+
 ## 2025
 
 **From Features to Fluency: Predicting Perceived Speech Fluency of Preschool Children for Language Proficiency Assessments** <br>
