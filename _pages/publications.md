@@ -9,7 +9,7 @@ author_profile: true
 
 **Automatic Prediction of Child Speech Fluency with Game-Based Data from German Preschoolers**<br>
 *Valentin Kany, Bernd Möbius, and Jürgen Trouvain*<br>
-Proc. 15th Language Resources and Evaluation Conference (LREC 2026), Palma de Mallorca, pp. 5607-5616.
+Proc. 15th Language Resources and Evaluation Conference (LREC '26), Palma de Mallorca, pp. 5607-5616.
 [[pdf]](http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.439.pdf){:target="_blank"} [[poster]](/files/Poster_SpeechScience_Kany_2702.pdf){:target="_blank"} <br>
 
 **Automatic Detection of Disfluencies in L1 and L2 Child Speech**<br>
