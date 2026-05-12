@@ -21,7 +21,7 @@ Proc. 37th Conf. Elektronische Sprachsignalverarbeitung (ESSV '26), Eichstätt, 
 
 **From Features to Fluency: Predicting Perceived Speech Fluency of Preschool Children for Language Proficiency Assessments** <br>
 *Valentin Kany* <br>
-Proc. 10th Workshop on Speech and Language Technology in Education (SLaTE '25), pp. 118-122.
+Proc. 10th Workshop on Speech and Language Technology in Education (SLaTE '25), Nijmegen, pp. 118-122.
 [[pdf]](https://www.isca-archive.org/slate_2025/kany25_slate.pdf){:target="_blank"} [[poster]](/files/Poster_Kany_2025.pdf){:target="_blank"} <br>
 
 **Annotation of disfluencies in child speech**<br>
