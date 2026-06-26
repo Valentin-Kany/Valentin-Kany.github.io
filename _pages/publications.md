@@ -27,7 +27,7 @@ Proc. 10th Workshop on Speech and Language Technology in Education (SLaTE '25), 
 **Annotation of disfluencies in child speech**<br>
 *Valentin Kany and Jürgen Trouvain*<br>
 Proc. 36th Conf. Elektronische Sprachsignalverarbeitung (ESSV '25), Halle (Saale), pp. 247-254.
-[[pdf]](/files/Kany_Trouvain_2025.pdf){:target="_blank"} [[poster]](/files/Poster_Kany_Trouvain_2025.pdf){:target="_blank"}
+[[pdf]](/files/Kany_Trouvain_2025.pdf){:target="_blank"} [[poster]](/files/Poster_Kany_Trouvain_2025.pdf){:target="_blank"} <br>
 Best Student Paper Award <br>
 
 ## 2024
