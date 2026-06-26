@@ -28,7 +28,7 @@ Proc. 10th Workshop on Speech and Language Technology in Education (SLaTE '25), 
 *Valentin Kany and Jürgen Trouvain*<br>
 Proc. 36th Conf. Elektronische Sprachsignalverarbeitung (ESSV '25), Halle (Saale), pp. 247-254.
 [[pdf]](/files/Kany_Trouvain_2025.pdf){:target="_blank"} [[poster]](/files/Poster_Kany_Trouvain_2025.pdf){:target="_blank"}
-- ![#f03c15]Best Student Paper Award `#f03c15`<br>
+Best Student Paper Award <br>
 
 ## 2024
 
