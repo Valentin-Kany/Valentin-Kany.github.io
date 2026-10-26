@@ -191,12 +191,10 @@ author_profile: false
     <h1>Teaching</h1>
 
     <p class="vkt-lead">
-      My teaching experience spans phonetics,
-      speech science, and statistics, with courses
-      offered to students from a range of academic
-      backgrounds. I enjoy making complex concepts
-      accessible through clear explanations,
-      practical examples, and hands-on exercises.
+      At Saarland University, I have taught courses
+      covering speech and language, statistics with R,
+      and academic research skills at both undergraduate
+      and graduate levels.
     </p>
 
   </header>
@@ -214,12 +212,12 @@ author_profile: false
       at Saarland University.
     </p>
 
-    <!-- PHONETICS -->
+    <!-- PHONETICS & SPEECH -->
 
     <div class="vkt-group">
 
       <div class="vkt-group-heading">
-        Phonetics &amp; Speech Science
+        Phonetics &amp; Speech
       </div>
 
       <div class="vkt-course-grid">
@@ -231,14 +229,16 @@ author_profile: false
           </h3>
 
           <div class="vkt-card-meta">
-            Tutorial / Exercise Class
+            Bachelor's Level · Tutorial / Exercise Class
           </div>
 
           <p>
             Exercises accompanying the introductory
-            lecture, covering fundamental concepts
-            of phonetics and phonology and their
-            practical application.
+            lecture, attended by students from a wide
+            range of degree programmes, including
+            Language Science, Computational Linguistics,
+            English and Romance Studies, Computer Science,
+            and Data Science and Artificial Intelligence.
           </p>
 
         </div>
@@ -250,13 +250,13 @@ author_profile: false
           </h3>
 
           <div class="vkt-card-meta">
-            Tutorial / Exercise Class
+            Master's Level · Tutorial / Exercise Class
           </div>
 
           <p>
             Exercises supporting the understanding
-            and application of concepts introduced
-            in the Speech Science course.
+            and practical application of concepts
+            introduced in the Speech Science course.
           </p>
 
         </div>
