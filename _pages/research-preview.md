@@ -166,29 +166,6 @@ author_profile: false
   height: 100%;
 }
 
-.vkr-symbol {
-  font-size: 1.7rem;
-  margin-bottom: 1rem;
-}
-
-/* INTERESTS */
-
-.vkr-interests {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .6rem;
-  margin-top: 1.2rem;
-}
-
-.vkr-interest {
-  padding: .5rem .9rem;
-  background: var(--soft);
-  border: 1px solid var(--line);
-  border-radius: 30px;
-  font-size: .82rem;
-  color: var(--ink);
-}
-
 /* FOOTER */
 
 .vkr-end {
@@ -232,8 +209,8 @@ author_profile: false
     <h1>Research &amp; Projects</h1>
 
     <p class="vkr-lead">
-      My research interests lie in the fields of phonetics,
-      speech science, and speech and language technology.
+      My research interests lie in the fields of speech science
+      and speech and language technology.
       Much of my recent work has focused on speech fluency
       in preschool children, combining phonetic analysis,
       human judgments, and computational methods.
@@ -273,10 +250,10 @@ author_profile: false
       <p>
         The work combines analyses of children's speech
         with human fluency judgments and automatic approaches
-        to detecting disfluencies and predicting fluency
-        assessments. A central goal is to develop methods
-        that account for the characteristics of children's
-        developing speech.
+        to disfluency detection and fluency assessment.
+        It examines how these different sources of information
+        can be used to develop and evaluate computational
+        methods for assessing children's speech fluency.
       </p>
 
       <p>
@@ -323,11 +300,11 @@ author_profile: false
 
       <a
         class="vkr-link"
-        href="https://www.uni-saarland.de/lehrstuhl/haberzettl/projekte/sprachliche-bildung-in-kita.html"
+        href="https://wuschel-app.de/"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Official project website →
+        WUSCHEL website →
       </a>
 
     </div>
@@ -355,10 +332,6 @@ author_profile: false
       <!-- MASTER'S THESIS -->
 
       <div class="vkr-card">
-
-        <div class="vkr-symbol">
-          ◯ ◇
-        </div>
 
         <div class="vkr-card-label">
           Master's Thesis · 2021
@@ -389,10 +362,6 @@ author_profile: false
       <!-- POKEMON STUDY -->
 
       <div class="vkr-card">
-
-        <div class="vkr-symbol">
-          🔤
-        </div>
 
         <div class="vkr-card-label">
           Laboratory Phonology · Course Paper
@@ -431,20 +400,10 @@ author_profile: false
     </h2>
 
     <p class="vkr-section-intro">
-      Beyond these projects, I am interested in
-      dialectal variation and regional varieties
-      of spoken language.
+      Beyond these projects, I am also interested in
+      dialectal variation, particularly regional
+      varieties of German.
     </p>
-
-    <div class="vkr-interests">
-      <span class="vkr-interest">
-        Dialectal variation
-      </span>
-
-      <span class="vkr-interest">
-        Regional varieties of German
-      </span>
-    </div>
 
   </section>
 
