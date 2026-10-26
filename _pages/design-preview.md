@@ -12,6 +12,7 @@ author_profile: false
   --accent: #2879a8;
   --line: #e3ebf0;
   --soft: #f5f9fc;
+
   max-width: 1050px;
   margin: 0 auto;
   color: var(--ink);
@@ -65,7 +66,7 @@ author_profile: false
   font-size: .95rem;
   line-height: 1.8;
   color: var(--muted);
-  margin: 0;
+  margin: 0 0 1rem;
 }
 
 .vk-portrait {
@@ -101,8 +102,15 @@ author_profile: false
 }
 
 @keyframes vk-breathe {
-  from { transform: scaleY(.4); opacity: .5; }
-  to { transform: scaleY(1); opacity: 1; }
+  from {
+    transform: scaleY(.4);
+    opacity: .5;
+  }
+
+  to {
+    transform: scaleY(1);
+    opacity: 1;
+  }
 }
 
 /* SECTION LINKS */
@@ -229,6 +237,7 @@ author_profile: false
 
   <section class="vk-hero">
     <div>
+
       <div class="vk-eyebrow">
         Phonetics · Speech Science · Language
       </div>
@@ -236,16 +245,35 @@ author_profile: false
       <h1>Hi, I'm Valentin!</h1>
 
       <p class="vk-intro">
-        I am a researcher and university instructor
-        at Saarland University, working at the intersection
-        of spoken language, speech technology, and education.
+        I am a research associate and PhD student in the
+        <a href="https://www.coli.uni-saarland.de/groups/FK/speech_science/index.html">
+          Speech Science group
+        </a>
+        and the group for
+        <a href="https://www.uni-saarland.de/lehrstuhl/haberzettl.html">
+          German as a foreign/second language
+        </a>
+        at Saarland University.
       </p>
 
       <p class="vk-secondary">
-        On this website, you can learn more about my
-        research interests, projects, teaching activities,
-        and academic contributions.
+        My research focuses on speech fluency in preschool children,
+        particularly its analysis and automatic assessment as part
+        of the
+        <a href="https://www.uni-saarland.de/lehrstuhl/haberzettl/projekte/sprachliche-bildung-in-kita.html">
+          WUSCHEL project
+        </a>.
+        My broader interests include speech and language
+        technologies in education, dialectal variation,
+        and sound symbolism.
       </p>
+
+      <p class="vk-secondary">
+        On this website, you can find information about
+        my research projects, publications, talks,
+        and teaching activities.
+      </p>
+
     </div>
 
     <div>
@@ -255,56 +283,89 @@ author_profile: false
         alt="Portrait of Valentin Kany"
       >
     </div>
+
   </section>
 
   <!-- ANIMATED SPEECH WAVE -->
 
-  <div class="vk-wave" id="vk-wave" aria-hidden="true"></div>
+  <div
+    class="vk-wave"
+    id="vk-wave"
+    aria-hidden="true">
+  </div>
 
   <!-- MAIN AREAS -->
 
   <section>
+
     <div class="vk-section-label">
       Explore my work
     </div>
 
     <div class="vk-cards">
 
-      <a class="vk-card" href="/research/">
+      <!-- RESEARCH -->
+
+      <a class="vk-card" href="{{ '/research/' | relative_url }}">
+
         <div class="vk-card-icon">🎙️</div>
+
         <h2>Research &amp; Projects</h2>
+
         <p>
           An overview of my research interests,
-          current and previous projects,
-          and the questions behind my work.
+          projects, and the questions behind my work.
         </p>
-        <span class="vk-card-more">Explore research →</span>
+
+        <span class="vk-card-more">
+          Explore research →
+        </span>
+
       </a>
 
-      <a class="vk-card" href="/teaching/">
+      <!-- TEACHING -->
+
+      <a class="vk-card" href="{{ '/teaching/' | relative_url }}">
+
         <div class="vk-card-icon">🎓</div>
+
         <h2>Teaching</h2>
+
         <p>
-          Courses I have taught, topics I enjoy
-          exploring with students, and my
-          experience in university teaching.
+          An overview of the courses I have taught
+          and my experience in university teaching.
         </p>
-        <span class="vk-card-more">Explore teaching →</span>
+
+        <span class="vk-card-more">
+          Explore teaching →
+        </span>
+
       </a>
 
-      <a class="vk-card" href="/publications/">
+      <!-- PUBLICATIONS -->
+
+      <a class="vk-card" href="{{ '/publications/' | relative_url }}">
+
         <div class="vk-card-icon">📚</div>
+
         <h2>Publications &amp; Talks</h2>
+
         <p>
-          Scientific publications, conference
-          contributions, presentations,
-          and other academic work.
+          A collection of my scientific publications,
+          conference contributions, and presentations.
         </p>
-        <span class="vk-card-more">View publications →</span>
+
+        <span class="vk-card-more">
+          View publications →
+        </span>
+
       </a>
 
     </div>
+
   </section>
+
+  <!-- FOOTER -->
 
   <div class="vk-end">
     Thanks for stopping by!
@@ -315,7 +376,10 @@ author_profile: false
 <script>
 (function () {
   const wave = document.getElementById("vk-wave");
-  if (!wave || wave.children.length) return;
+
+  if (!wave || wave.children.length) {
+    return;
+  }
 
   const count = 85;
 
@@ -324,18 +388,27 @@ author_profile: false
     const position = i / (count - 1);
 
     const envelope = Math.pow(
-      Math.sin(Math.PI * position), 1.5
+      Math.sin(Math.PI * position),
+      1.5
     );
 
     const modulation = Math.abs(
-      Math.sin(i * 0.48) * Math.cos(i * 0.17)
+      Math.sin(i * 0.48) *
+      Math.cos(i * 0.17)
     );
 
     const height =
       4 + 45 * envelope * (0.2 + 0.8 * modulation);
 
-    bar.style.setProperty("--height", height + "px");
-    bar.style.setProperty("--delay", (-i * 0.035) + "s");
+    bar.style.setProperty(
+      "--height",
+      height + "px"
+    );
+
+    bar.style.setProperty(
+      "--delay",
+      (-i * 0.035) + "s"
+    );
 
     wave.appendChild(bar);
   }
