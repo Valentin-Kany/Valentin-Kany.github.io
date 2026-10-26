@@ -50,7 +50,7 @@ author_profile: false
 }
 
 .vk-hero h1 {
-  font-size: clamp(2.2rem, 4.5vw, 3.5rem);
+  font-size: clamp(1.9rem, 3.5vw, 2.7rem);
   line-height: 1.15;
   margin: .6rem 0 1rem;
   color: var(--ink);
@@ -208,7 +208,7 @@ author_profile: false
   }
 
   .vk-hero h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .vk-intro {
@@ -239,18 +239,26 @@ author_profile: false
     <div>
 
       <div class="vk-eyebrow">
-        Phonetics · Speech Science · Language
+        Speech · Technology · Education
       </div>
 
       <h1>Hi, I'm Valentin!</h1>
 
       <p class="vk-intro">
         I am a research associate and PhD student in the
-        <a href="https://www.coli.uni-saarland.de/groups/FK/speech_science/index.html">
+        <a
+          href="https://www.coli.uni-saarland.de/groups/FK/speech_science/index.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Speech Science group
         </a>
         and the group for
-        <a href="https://www.uni-saarland.de/lehrstuhl/haberzettl.html">
+        <a
+          href="https://www.uni-saarland.de/lehrstuhl/haberzettl.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           German as a foreign/second language
         </a>
         at Saarland University.
@@ -260,7 +268,11 @@ author_profile: false
         My research focuses on speech fluency in preschool children,
         particularly its analysis and automatic assessment as part
         of the
-        <a href="https://www.uni-saarland.de/lehrstuhl/haberzettl/projekte/sprachliche-bildung-in-kita.html">
+        <a
+          href="https://www.uni-saarland.de/lehrstuhl/haberzettl/projekte/sprachliche-bildung-in-kita.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           WUSCHEL project
         </a>.
         My broader interests include speech and language
