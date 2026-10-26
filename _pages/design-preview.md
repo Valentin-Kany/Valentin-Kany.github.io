@@ -1,4 +1,3 @@
-
 ---
 layout: single
 permalink: /design-preview/
