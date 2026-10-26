@@ -50,7 +50,7 @@ author_profile: false
 }
 
 .vk-hero h1 {
-  font-size: clamp(1.9rem, 3.5vw, 2.7rem);
+  font-size: clamp(1.7rem, 3vw, 2.35rem);
   line-height: 1.15;
   margin: .6rem 0 1rem;
   color: var(--ink);
@@ -208,7 +208,7 @@ author_profile: false
   }
 
   .vk-hero h1 {
-    font-size: 1.8rem;
+    font-size: 1.65rem;
   }
 
   .vk-intro {
