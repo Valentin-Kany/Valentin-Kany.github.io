@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /about-preview/
+permalink: /about/
 title: ""
 author_profile: false
 ---
@@ -167,7 +167,7 @@ author_profile: false
   </section>
 
   <footer class="vka-footer">
-    <a href="{{ '/design-preview/' | relative_url }}">← Back to homepage preview</a>
+    <a href="{{ '/' | relative_url }}">← Back to homepage</a>
   </footer>
 
 </div>
