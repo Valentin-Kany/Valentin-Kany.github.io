@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
+permalink: /teaching-old/
 author_profile: true
 ---
 ## Winter semester 2025/2026
