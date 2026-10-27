@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /teaching-preview/
+permalink: /teaching/
 title: ""
 author_profile: false
 ---
@@ -382,8 +382,8 @@ author_profile: false
   <!-- FOOTER -->
 
   <div class="vkt-end">
-    <a href="{{ '/design-preview/' | relative_url }}">
-      ← Back to homepage preview
+    <a href="{{ '/' | relative_url }}">
+      ← Back to homepage
     </a>
   </div>
 
