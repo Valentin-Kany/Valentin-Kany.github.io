@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /publications-preview/
+permalink: /publications/
 title: ""
 author_profile: false
 ---
@@ -84,5 +84,5 @@ author_profile: false
   <div class="vkp-entry"><h4 class="vkp-entry-title">Kommissar Wuschel – Sprachstandsdiagnose bei Vorschulkindern durch ein Serious Game</h4><p class="vkp-entry-authors">Valentin Kany</p><p class="vkp-entry-details">Linguistischer Nachwuchsworkshop (LiNaWo 2023), Warsaw.</p></div>
   <div class="vkp-entry"><h4 class="vkp-entry-title">Preschool language assessment for multilingual children: A usage-based approach</h4><p class="vkp-entry-authors">Nicole Weidinger, Stefanie Haberzettl, and Valentin Kany</p><p class="vkp-entry-details">16th International Cognitive Linguistics Conference (ICLC16), Düsseldorf.</p></div>
 </section>
-<div class="vkp-end"><a href="{{ '/design-preview/' | relative_url }}">← Back to homepage preview</a></div>
+<div class="vkp-end"><a href="{{ '/' | relative_url }}">← Back to homepage</a></div>
 </div>
