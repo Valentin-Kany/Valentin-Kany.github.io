@@ -135,6 +135,7 @@ author_profile: false
         <div class="vka-content">
           <h3>State-Certified Business IT Specialist</h3>
           <p class="vka-original">Staatlich geprüfter Wirtschaftsinformatiker</p>
+          <p class="vka-original">Höhere Berufsfachschule für Wirtschaftsinformatik Saarbrücken</p>
         </div>
       </div>
 
