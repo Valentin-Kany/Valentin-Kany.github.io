@@ -239,7 +239,7 @@ author_profile: false
     <div>
 
       <div class="vk-eyebrow">
-        Speech · Technology · Education
+        
       </div>
 
       <h1>Hi, I'm Valentin!</h1>
