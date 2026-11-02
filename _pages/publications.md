@@ -35,7 +35,7 @@ author_profile: false
 
 <div class="vk-publications">
 <header class="vkp-header">
-  <div class="vkp-eyebrow">Speech · Technology · Education</div>
+  <div class="vkp-eyebrow"></div>
   <h1>Publications &amp; Talks</h1>
   <p class="vkp-lead">An overview of my scientific publications, conference contributions, and presentations.</p>
 </header>
