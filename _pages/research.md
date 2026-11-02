@@ -203,7 +203,7 @@ author_profile: false
   <header class="vkr-header">
 
     <div class="vkr-eyebrow">
-      Speech · Technology · Education
+      
     </div>
 
     <h1>Research &amp; Projects</h1>
