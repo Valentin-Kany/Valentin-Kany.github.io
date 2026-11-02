@@ -116,7 +116,7 @@ author_profile: false
 <div class="vk-about">
 
   <header class="vka-header">
-    <div class="vka-eyebrow">Speech · Technology · Education</div>
+    <div class="vka-eyebrow"></div>
     <h1>About</h1>
     <p class="vka-lead">
       A brief overview of my educational and academic background.
