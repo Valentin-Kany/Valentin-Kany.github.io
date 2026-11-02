@@ -185,7 +185,7 @@ author_profile: false
   <header class="vkt-header">
 
     <div class="vkt-eyebrow">
-      Speech · Technology · Education
+      
     </div>
 
     <h1>Teaching</h1>
